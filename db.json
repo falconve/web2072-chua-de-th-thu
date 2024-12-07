@@ -1,0 +1,46 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "nguyen van a",
+      "age": 20,
+      "email": "nguyena@gmail.com",
+      "image": "https://placehold.co/100x100"
+    },
+    {
+      "id": "2",
+      "name": "nguyen van ooooooo",
+      "age": 220,
+      "email": "nguyenb@gmail.com",
+      "image": "https://placehold.co/100x100"
+    },
+    {
+      "id": "74f5",
+      "name": "nabbbbbbb",
+      "age": 25,
+      "email": "nguyenc@gmail.com",
+      "image": "https://placehold.co/100x100"
+    },
+    {
+      "id": "76de",
+      "name": "nguyen van cdf",
+      "age": 25,
+      "email": "nguyenc@gmail.com",
+      "image": "https://placehold.co/100x100"
+    },
+    {
+      "id": "bbe1",
+      "name": "nguyenpppp",
+      "age": 14,
+      "email": "nguyenpppp@gmail.com",
+      "image": "https://placehold.co/100x100"
+    },
+    {
+      "id": "f26c",
+      "name": "nguyen van oooo",
+      "age": 256,
+      "email": "nguyenvanb@gmail.com",
+      "image": "https://placehold.co/100x100"
+    }
+  ]
+}
